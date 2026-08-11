@@ -276,18 +276,6 @@
     "img_b": "images/31876_107828_b.jpg"
   },
   {
-    "scene_id": "31920_108719",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/31920_108719_a.jpg",
-    "img_b": "images/31920_108719_b.jpg"
-  },
-  {
-    "scene_id": "31965_108695",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/31965_108695_a.jpg",
-    "img_b": "images/31965_108695_b.jpg"
-  },
-  {
     "scene_id": "32169_108556",
     "dataset": "SeaDronesSee",
     "img_a": "images/32169_108556_a.jpg",
@@ -316,24 +304,6 @@
     "dataset": "SeaDronesSee",
     "img_a": "images/33119_107832_a.jpg",
     "img_b": "images/33119_107832_b.jpg"
-  },
-  {
-    "scene_id": "33157_107766",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33157_107766_a.jpg",
-    "img_b": "images/33157_107766_b.jpg"
-  },
-  {
-    "scene_id": "33228_112673",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33228_112673_a.jpg",
-    "img_b": "images/33228_112673_b.jpg"
-  },
-  {
-    "scene_id": "33309_110128",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33309_110128_a.jpg",
-    "img_b": "images/33309_110128_b.jpg"
   },
   {
     "scene_id": "33431_105854",
@@ -372,40 +342,10 @@
     "img_b": "images/33537_105421_b.jpg"
   },
   {
-    "scene_id": "33664_109769",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33664_109769_a.jpg",
-    "img_b": "images/33664_109769_b.jpg"
-  },
-  {
     "scene_id": "33789_107840",
     "dataset": "SeaDronesSee",
     "img_a": "images/33789_107840_a.jpg",
     "img_b": "images/33789_107840_b.jpg"
-  },
-  {
-    "scene_id": "33892_108741",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33892_108741_a.jpg",
-    "img_b": "images/33892_108741_b.jpg"
-  },
-  {
-    "scene_id": "33892_108742",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/33892_108742_a.jpg",
-    "img_b": "images/33892_108742_b.jpg"
-  },
-  {
-    "scene_id": "34187_108773",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/34187_108773_a.jpg",
-    "img_b": "images/34187_108773_b.jpg"
-  },
-  {
-    "scene_id": "34187_108776",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/34187_108776_a.jpg",
-    "img_b": "images/34187_108776_b.jpg"
   },
   {
     "scene_id": "34613_107818",
@@ -426,34 +366,16 @@
     "img_b": "images/34732_105848_b.jpg"
   },
   {
-    "scene_id": "35088_107757",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/35088_107757_a.jpg",
-    "img_b": "images/35088_107757_b.jpg"
-  },
-  {
     "scene_id": "35199_108528",
     "dataset": "SeaDronesSee",
     "img_a": "images/35199_108528_a.jpg",
     "img_b": "images/35199_108528_b.jpg"
   },
   {
-    "scene_id": "35269_110195",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/35269_110195_a.jpg",
-    "img_b": "images/35269_110195_b.jpg"
-  },
-  {
     "scene_id": "35341_105971",
     "dataset": "SeaDronesSee",
     "img_a": "images/35341_105971_a.jpg",
     "img_b": "images/35341_105971_b.jpg"
-  },
-  {
-    "scene_id": "35356_110178",
-    "dataset": "SeaDronesSee",
-    "img_a": "images/35356_110178_a.jpg",
-    "img_b": "images/35356_110178_b.jpg"
   },
   {
     "scene_id": "35436_106029",
