@@ -118,12 +118,10 @@
   <!-- ---------------- Done ---------------- -->
   <section id="done" class="card hide">
     <h1>All done — thank you! 🎉</h1>
-    <p>You judged <b id="doneN">0</b> scene pairs. Please send us your results file:</p>
-    <ol>
-      <li><button class="btn-primary" id="dlBtn">⬇ Download my results (CSV)</button></li>
-      <li>Send the downloaded file back to whoever shared this study link with you.</li>
-    </ol>
-    <p class="small muted">If the download didn’t work, copy the text below and send it back to whoever shared this link:</p>
+    <p>You judged <b id="doneN">0</b> scene pairs. Your responses were submitted automatically — you're all set and can close this tab. Thank you! 🙏</p>
+    <p class="small muted">Backup only (you don't need to do this): if you were asked to, you can download your results and send them to whoever shared this link.</p>
+    <p><button class="btn-primary" id="dlBtn">⬇ Download my results (CSV)</button></p>
+    <p class="small muted">Or copy the text below:</p>
     <textarea id="csvBox" readonly></textarea>
     <p class="small muted" id="tieNote"></p>
     <p><button id="reviewBtn" class="small">← Review / change my answers</button></p>
@@ -153,8 +151,26 @@ const TAGP = STUDY_TAG ? STUDY_TAG+"_" : "";
 function keyFor(r){ return "maritime_eval_"+TAGP+r; }
 function storeKey(){ return keyFor(RATER); }
 function save(){ try{ localStorage.setItem(storeKey(),
-  JSON.stringify({order,leftSlot,answers,idx})); }catch(e){} }
+  JSON.stringify({order,leftSlot,answers,idx})); }catch(e){} collect(); }
 function load(r){ try{ return JSON.parse(localStorage.getItem(keyFor(r))); }catch(e){ return null; } }
+
+/* ---- auto-collect: silently POST each rater's running results to a collector ----
+   Paste your Google Apps Script /exec URL into COLLECT_URL. Fire-and-forget via
+   sendBeacon so raters do NOTHING: every answer upserts their row server-side (keyed
+   by rater name), so even a partial/abandoned session is captured. Empty URL = no-op. */
+const COLLECT_URL="https://script.google.com/macros/s/AKfycbxOq-qEwH1bcbZucHhr0ZXgYk-V3qeb5H2VdjI_6aum8_qFLqZnga0JtYxsRfvkeWVe/exec";
+let finished=false;
+function collect(){
+  try{
+    if(!COLLECT_URL || !RATER) return;
+    const payload=JSON.stringify({rater:RATER, n:Object.keys(answers).length,
+      total:(typeof SCENES!=="undefined"?SCENES.length:0), done:finished,
+      csv:toCSV(), ts:new Date().toISOString()});
+    if(navigator.sendBeacon){ navigator.sendBeacon(COLLECT_URL, payload); }
+    else{ fetch(COLLECT_URL,{method:"POST",mode:"no-cors",
+      headers:{"Content-Type":"text/plain;charset=utf-8"}, body:payload}); }
+  }catch(e){}
+}
 
 /* preload check for existing progress as the user types a name */
 $("rater").addEventListener("input", e=>{
@@ -247,6 +263,7 @@ function toCSV(){
   return rows.join("\n");
 }
 function finish(){
+  finished=true;
   const csv=toCSV();
   const nAns=Object.keys(answers).length;
   const nTie=Object.values(answers).filter(a=>a.choice==="tie").length;
