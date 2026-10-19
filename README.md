@@ -49,7 +49,7 @@ The geometric prior weights every library entry by how closely its scene (and ta
 
 ```math
 \hat p(\pi \mid \mathbf{c}_q) = \sum_i w_i(\mathbf{c}_q)\,k_\pi(\pi,\pi_i), \qquad
-w_i(\mathbf{c}_q) = \operatorname{softmax}_i\!\left(-\frac{\lVert \mathbf{c}_q-\mathbf{c}_i\rVert^2}{2\sigma^2}\right)
+w_i(\mathbf{c}_q) = \mathrm{softmax}_i\!\left(-\frac{\lVert \mathbf{c}_q-\mathbf{c}_i\rVert^2}{2\sigma^2}\right)
 ```
 
 and replacing it with a hard context bin lowers every retrieval metric.
