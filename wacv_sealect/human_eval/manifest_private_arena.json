@@ -1,0 +1,1297 @@
+[
+  {
+    "comp_id": "c0000_37597_117772",
+    "background": "37597_117772",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0001_37216_117285",
+    "background": "37216_117285",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0002_5133_33266",
+    "background": "5133_33266",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0003_4177_31476",
+    "background": "4177_31476",
+    "dataset": "ABOships",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0004_30495_101240",
+    "background": "30495_101240",
+    "dataset": "LARS",
+    "a_method": "discofos",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0005_30315_99951",
+    "background": "30315_99951",
+    "dataset": "LARS",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0006_30496_100595",
+    "background": "30496_100595",
+    "dataset": "LARS",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0007_246_6517",
+    "background": "246_6517",
+    "dataset": "SMD",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0008_37306_117409",
+    "background": "37306_117409",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0009_365_6450",
+    "background": "365_6450",
+    "dataset": "SMD",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0010_5028_30986",
+    "background": "5028_30986",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0011_365_6450",
+    "background": "365_6450",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0012_38579_119780",
+    "background": "38579_119780",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0013_38750_120200",
+    "background": "38750_120200",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0014_2464_6496",
+    "background": "2464_6496",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0015_31526_112713",
+    "background": "31526_112713",
+    "dataset": "SeaDronesSee",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0016_5290_33872",
+    "background": "5290_33872",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0017_37899_118161",
+    "background": "37899_118161",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0018_4342_29655",
+    "background": "4342_29655",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0019_36848_116795",
+    "background": "36848_116795",
+    "dataset": "SeaShips",
+    "a_method": "dino",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0020_31529_105251",
+    "background": "31529_105251",
+    "dataset": "SeaDronesSee",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0021_38440_119426",
+    "background": "38440_119426",
+    "dataset": "Kolomverse",
+    "a_method": "dino",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0022_37989_118274",
+    "background": "37989_118274",
+    "dataset": "SeaShips",
+    "a_method": "random",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0023_5571_30361",
+    "background": "5571_30361",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0024_37615_117795",
+    "background": "37615_117795",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0025_38728_120152",
+    "background": "38728_120152",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0026_33119_107832",
+    "background": "33119_107832",
+    "dataset": "SeaDronesSee",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0027_35941_112217",
+    "background": "35941_112217",
+    "dataset": "SeaDronesSee",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0028_38163_118731",
+    "background": "38163_118731",
+    "dataset": "Kolomverse",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0029_36793_116719",
+    "background": "36793_116719",
+    "dataset": "SeaShips",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0030_37597_117771",
+    "background": "37597_117771",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0031_33119_107832",
+    "background": "33119_107832",
+    "dataset": "SeaDronesSee",
+    "a_method": "gala",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0032_30560_101336",
+    "background": "30560_101336",
+    "dataset": "LARS",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0033_38655_119984",
+    "background": "38655_119984",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0034_30315_99951",
+    "background": "30315_99951",
+    "dataset": "LARS",
+    "a_method": "clip",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0035_1800_28232",
+    "background": "1800_28232",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0036_35436_106031",
+    "background": "35436_106031",
+    "dataset": "SeaDronesSee",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0037_4840_36123",
+    "background": "4840_36123",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0038_2881_6303",
+    "background": "2881_6303",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0039_38579_119780",
+    "background": "38579_119780",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0040_246_6517",
+    "background": "246_6517",
+    "dataset": "SMD",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0041_5290_33872",
+    "background": "5290_33872",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0042_36605_116473",
+    "background": "36605_116473",
+    "dataset": "SeaShips",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0043_5807_33017",
+    "background": "5807_33017",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0044_4646_34172",
+    "background": "4646_34172",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0045_1800_28232",
+    "background": "1800_28232",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0046_1920_28193",
+    "background": "1920_28193",
+    "dataset": "SMD",
+    "a_method": "dino",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0047_33119_107832",
+    "background": "33119_107832",
+    "dataset": "SeaDronesSee",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0048_30759_101139",
+    "background": "30759_101139",
+    "dataset": "LARS",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0049_37899_118161",
+    "background": "37899_118161",
+    "dataset": "SeaShips",
+    "a_method": "clip",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0050_38117_118618",
+    "background": "38117_118618",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0051_31105_101471",
+    "background": "31105_101471",
+    "dataset": "LARS",
+    "a_method": "dino",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0052_35436_106031",
+    "background": "35436_106031",
+    "dataset": "SeaDronesSee",
+    "a_method": "gala",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0053_3297_28229",
+    "background": "3297_28229",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0054_38489_119540",
+    "background": "38489_119540",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0055_38358_119223",
+    "background": "38358_119223",
+    "dataset": "Kolomverse",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0056_34732_105848",
+    "background": "34732_105848",
+    "dataset": "SeaDronesSee",
+    "a_method": "dino",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0057_32929_105996",
+    "background": "32929_105996",
+    "dataset": "SeaDronesSee",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0058_38883_120539",
+    "background": "38883_120539",
+    "dataset": "Kolomverse",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0059_36543_116395",
+    "background": "36543_116395",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0060_5028_30986",
+    "background": "5028_30986",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0061_287_28270",
+    "background": "287_28270",
+    "dataset": "SMD",
+    "a_method": "gala",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0062_37597_117772",
+    "background": "37597_117772",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0063_4177_31476",
+    "background": "4177_31476",
+    "dataset": "ABOships",
+    "a_method": "dino",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0064_5408_35298",
+    "background": "5408_35298",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0065_5682_35450",
+    "background": "5682_35450",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0066_37585_117756",
+    "background": "37585_117756",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0067_5133_33263",
+    "background": "5133_33263",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0068_3346_6505",
+    "background": "3346_6505",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0069_37926_118192",
+    "background": "37926_118192",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0070_5489_35417",
+    "background": "5489_35417",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0071_30755_100099",
+    "background": "30755_100099",
+    "dataset": "LARS",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0072_3096_6533",
+    "background": "3096_6533",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0073_36793_116719",
+    "background": "36793_116719",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0074_36793_116719",
+    "background": "36793_116719",
+    "dataset": "SeaShips",
+    "a_method": "random",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0075_4342_29655",
+    "background": "4342_29655",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0076_5133_33266",
+    "background": "5133_33266",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0077_35436_106029",
+    "background": "35436_106029",
+    "dataset": "SeaDronesSee",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0078_37009_117014",
+    "background": "37009_117014",
+    "dataset": "SeaShips",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0079_1499_28153",
+    "background": "1499_28153",
+    "dataset": "SMD",
+    "a_method": "discofos",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0080_4840_36123",
+    "background": "4840_36123",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0081_37108_117145",
+    "background": "37108_117145",
+    "dataset": "SeaShips",
+    "a_method": "random",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0082_1657_28264",
+    "background": "1657_28264",
+    "dataset": "SMD",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0083_35436_106029",
+    "background": "35436_106029",
+    "dataset": "SeaDronesSee",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0084_4342_29653",
+    "background": "4342_29653",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0085_246_6519",
+    "background": "246_6519",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0086_37304_117407",
+    "background": "37304_117407",
+    "dataset": "SeaShips",
+    "a_method": "clip",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0087_4342_29655",
+    "background": "4342_29655",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0088_37119_117159",
+    "background": "37119_117159",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0089_246_6519",
+    "background": "246_6519",
+    "dataset": "SMD",
+    "a_method": "random",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0090_4045_31330",
+    "background": "4045_31330",
+    "dataset": "ABOships",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0091_36804_116734",
+    "background": "36804_116734",
+    "dataset": "SeaShips",
+    "a_method": "dino",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0092_5408_35298",
+    "background": "5408_35298",
+    "dataset": "ABOships",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0093_37597_117772",
+    "background": "37597_117772",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0094_38117_118618",
+    "background": "38117_118618",
+    "dataset": "Kolomverse",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0095_4142_32585",
+    "background": "4142_32585",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0096_4784_33526",
+    "background": "4784_33526",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0097_36543_116395",
+    "background": "36543_116395",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0098_38915_120636",
+    "background": "38915_120636",
+    "dataset": "Kolomverse",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0099_297_6549",
+    "background": "297_6549",
+    "dataset": "SMD",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0100_37304_117407",
+    "background": "37304_117407",
+    "dataset": "SeaShips",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0101_246_6519",
+    "background": "246_6519",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0102_30759_101139",
+    "background": "30759_101139",
+    "dataset": "LARS",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0103_38883_120541",
+    "background": "38883_120541",
+    "dataset": "Kolomverse",
+    "a_method": "discofos",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0104_34613_107818",
+    "background": "34613_107818",
+    "dataset": "SeaDronesSee",
+    "a_method": "discofos",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0105_30759_101145",
+    "background": "30759_101145",
+    "dataset": "LARS",
+    "a_method": "dino",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0106_4646_34172",
+    "background": "4646_34172",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0107_5028_30986",
+    "background": "5028_30986",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0108_30453_101741",
+    "background": "30453_101741",
+    "dataset": "LARS",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0109_38750_120200",
+    "background": "38750_120200",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0110_36848_116795",
+    "background": "36848_116795",
+    "dataset": "SeaShips",
+    "a_method": "discofos",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0111_37834_118082",
+    "background": "37834_118082",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0112_36543_116395",
+    "background": "36543_116395",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0113_5028_30986",
+    "background": "5028_30986",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0114_38329_119149",
+    "background": "38329_119149",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0115_37216_117285",
+    "background": "37216_117285",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0116_37455_117597",
+    "background": "37455_117597",
+    "dataset": "SeaShips",
+    "a_method": "discofos",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0117_38728_120152",
+    "background": "38728_120152",
+    "dataset": "Kolomverse",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0118_34613_107818",
+    "background": "34613_107818",
+    "dataset": "SeaDronesSee",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0119_3346_6501",
+    "background": "3346_6501",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0120_5724_32604",
+    "background": "5724_32604",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0121_36543_116395",
+    "background": "36543_116395",
+    "dataset": "SeaShips",
+    "a_method": "clip",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0122_30759_101139",
+    "background": "30759_101139",
+    "dataset": "LARS",
+    "a_method": "discofos",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0123_5807_33012",
+    "background": "5807_33012",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0124_246_6519",
+    "background": "246_6519",
+    "dataset": "SMD",
+    "a_method": "dino",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0125_5682_35447",
+    "background": "5682_35447",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0126_3178_6329",
+    "background": "3178_6329",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0127_32929_105996",
+    "background": "32929_105996",
+    "dataset": "SeaDronesSee",
+    "a_method": "random",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0128_38671_120023",
+    "background": "38671_120023",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0129_1800_28232",
+    "background": "1800_28232",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0130_37615_117795",
+    "background": "37615_117795",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0131_30759_101139",
+    "background": "30759_101139",
+    "dataset": "LARS",
+    "a_method": "clip",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0132_34613_107818",
+    "background": "34613_107818",
+    "dataset": "SeaDronesSee",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0133_36559_116419",
+    "background": "36559_116419",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0134_38883_120544",
+    "background": "38883_120544",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0135_38489_119540",
+    "background": "38489_119540",
+    "dataset": "Kolomverse",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0136_38801_120346",
+    "background": "38801_120346",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0137_4999_36011",
+    "background": "4999_36011",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0138_37989_118274",
+    "background": "37989_118274",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0139_5630_30423",
+    "background": "5630_30423",
+    "dataset": "ABOships",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0140_4177_31476",
+    "background": "4177_31476",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0141_5807_33017",
+    "background": "5807_33017",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0142_38454_119458",
+    "background": "38454_119458",
+    "dataset": "Kolomverse",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0143_5807_33012",
+    "background": "5807_33012",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0144_35179_113075",
+    "background": "35179_113075",
+    "dataset": "SeaDronesSee",
+    "a_method": "dino",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0145_5028_30986",
+    "background": "5028_30986",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0146_4361_36002",
+    "background": "4361_36002",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0147_4782_36384",
+    "background": "4782_36384",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0148_30553_101772",
+    "background": "30553_101772",
+    "dataset": "LARS",
+    "a_method": "clip",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0149_2449_28057",
+    "background": "2449_28057",
+    "dataset": "SMD",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0150_30334_102805",
+    "background": "30334_102805",
+    "dataset": "LARS",
+    "a_method": "gala",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0151_34732_105848",
+    "background": "34732_105848",
+    "dataset": "SeaDronesSee",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0152_38666_120007",
+    "background": "38666_120007",
+    "dataset": "Kolomverse",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0153_5807_33017",
+    "background": "5807_33017",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0154_33119_107832",
+    "background": "33119_107832",
+    "dataset": "SeaDronesSee",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0155_37324_117431",
+    "background": "37324_117431",
+    "dataset": "SeaShips",
+    "a_method": "dino",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0156_5807_33012",
+    "background": "5807_33012",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0157_5701_29226",
+    "background": "5701_29226",
+    "dataset": "ABOships",
+    "a_method": "discofos",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0158_1920_28193",
+    "background": "1920_28193",
+    "dataset": "SMD",
+    "a_method": "random",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0159_37926_118192",
+    "background": "37926_118192",
+    "dataset": "SeaShips",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0160_4342_29653",
+    "background": "4342_29653",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0161_38750_120200",
+    "background": "38750_120200",
+    "dataset": "Kolomverse",
+    "a_method": "dino",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0162_37324_117431",
+    "background": "37324_117431",
+    "dataset": "SeaShips",
+    "a_method": "sealect",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0163_4045_31330",
+    "background": "4045_31330",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0164_4646_34172",
+    "background": "4646_34172",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0165_37032_117042",
+    "background": "37032_117042",
+    "dataset": "SeaShips",
+    "a_method": "discofos",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0166_30755_100099",
+    "background": "30755_100099",
+    "dataset": "LARS",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0167_5807_33017",
+    "background": "5807_33017",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0168_38728_120152",
+    "background": "38728_120152",
+    "dataset": "Kolomverse",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0169_2881_6303",
+    "background": "2881_6303",
+    "dataset": "SMD",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0170_36640_116517",
+    "background": "36640_116517",
+    "dataset": "SeaShips",
+    "a_method": "gala",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0171_3346_6506",
+    "background": "3346_6506",
+    "dataset": "SMD",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0172_4334_31775",
+    "background": "4334_31775",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0173_5682_35447",
+    "background": "5682_35447",
+    "dataset": "ABOships",
+    "a_method": "dino",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0174_1800_28233",
+    "background": "1800_28233",
+    "dataset": "SMD",
+    "a_method": "dino",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0175_5800_29187",
+    "background": "5800_29187",
+    "dataset": "ABOships",
+    "a_method": "clip",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0176_38117_118618",
+    "background": "38117_118618",
+    "dataset": "Kolomverse",
+    "a_method": "discofos",
+    "b_method": "random"
+  },
+  {
+    "comp_id": "c0177_5630_30423",
+    "background": "5630_30423",
+    "dataset": "ABOships",
+    "a_method": "discofos",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0178_5133_33266",
+    "background": "5133_33266",
+    "dataset": "ABOships",
+    "a_method": "gala",
+    "b_method": "clip"
+  },
+  {
+    "comp_id": "c0179_31876_107828",
+    "background": "31876_107828",
+    "dataset": "SeaDronesSee",
+    "a_method": "gala",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0180_5133_33263",
+    "background": "5133_33263",
+    "dataset": "ABOships",
+    "a_method": "sealect",
+    "b_method": "dino"
+  },
+  {
+    "comp_id": "c0181_4177_31476",
+    "background": "4177_31476",
+    "dataset": "ABOships",
+    "a_method": "random",
+    "b_method": "sealect"
+  },
+  {
+    "comp_id": "c0182_31876_107828",
+    "background": "31876_107828",
+    "dataset": "SeaDronesSee",
+    "a_method": "discofos",
+    "b_method": "gala"
+  },
+  {
+    "comp_id": "c0183_34613_107818",
+    "background": "34613_107818",
+    "dataset": "SeaDronesSee",
+    "a_method": "sealect",
+    "b_method": "discofos"
+  },
+  {
+    "comp_id": "c0184_34732_105848",
+    "background": "34732_105848",
+    "dataset": "SeaDronesSee",
+    "a_method": "random",
+    "b_method": "sealect"
+  }
+]

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# data, weights, and generated outputs (not distributed)
+*.pt
+*.pth
+*.ckpt
+*.pkl
+cache/
+data/
+datasets/
+sealect2/camera_ready/
+exp1_retrieval_quality/

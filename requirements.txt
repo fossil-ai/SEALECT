@@ -1,0 +1,24 @@
+# Core — retrieval / distributional / plausibility harness (given a prebuilt
+# library, splits, prior, and retriever weights). The human-study scorer
+# (wacv_sealect/human_eval/arena_score.py) needs none of these — stdlib only.
+numpy
+torch
+tqdm
+
+# Figures, pose estimator, and embedding visualizations
+matplotlib
+pillow
+opencv-python
+scikit-learn
+
+# Baselines + data/library build. Appearance encoders auto-download:
+#   DINOv2 via torch.hub (facebookresearch/dinov2); CLIP / SigLIP2 / SegFormer /
+#   GroundingDINO via HuggingFace.
+transformers
+torchvision
+
+# SAM2 — library masks + downstream cutouts (install from source):
+# pip install git+https://github.com/facebookresearch/sam2.git
+
+# Rendered-composite pipeline (Table 5) uses the external BootPlace and
+# DiffHarmony repositories; see their instructions.

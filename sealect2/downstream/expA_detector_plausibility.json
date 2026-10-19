@@ -1,0 +1,110 @@
+{
+  "sealect/k20": {
+    "n": 293,
+    "recall": 0.726962457337884,
+    "mean_conf": 0.5778019230970195,
+    "mean_bestIoU": 0.5869550616301615,
+    "src": {
+      "composite": 293
+    }
+  },
+  "dino/k20": {
+    "n": 298,
+    "recall": 0.7080536912751678,
+    "mean_conf": 0.5850344483886285,
+    "mean_bestIoU": 0.5947225395072058,
+    "src": {
+      "composite": 298
+    }
+  },
+  "clip/k20": {
+    "n": 299,
+    "recall": 0.68561872909699,
+    "mean_conf": 0.600635232721887,
+    "mean_bestIoU": 0.572050149108277,
+    "src": {
+      "composite": 299
+    }
+  },
+  "random/k20": {
+    "n": 300,
+    "recall": 0.5466666666666666,
+    "mean_conf": 0.5651709748114028,
+    "mean_bestIoU": 0.4640023288542822,
+    "src": {
+      "composite": 300
+    }
+  },
+  "prior_only/k20": {
+    "n": 300,
+    "recall": 0.5133333333333333,
+    "mean_conf": 0.5807392831359591,
+    "mean_bestIoU": 0.4426933689741418,
+    "src": {
+      "composite": 300
+    }
+  },
+  "dino_prior/k20": {
+    "n": 298,
+    "recall": 0.7114093959731543,
+    "mean_conf": 0.5850330409857462,
+    "mean_bestIoU": 0.5834309595794067,
+    "src": {
+      "composite": 298
+    }
+  },
+  "sealect/k100": {
+    "n": 299,
+    "recall": 0.6956521739130435,
+    "mean_conf": 0.5728411916643381,
+    "mean_bestIoU": 0.5837201024479635,
+    "src": {
+      "composite": 299
+    }
+  },
+  "dino/k100": {
+    "n": 300,
+    "recall": 0.7166666666666667,
+    "mean_conf": 0.6059839348460353,
+    "mean_bestIoU": 0.5918663767255687,
+    "src": {
+      "composite": 300
+    }
+  },
+  "clip/k100": {
+    "n": 300,
+    "recall": 0.6733333333333333,
+    "mean_conf": 0.6034212428154332,
+    "mean_bestIoU": 0.5665030468231999,
+    "src": {
+      "composite": 300
+    }
+  },
+  "random/k100": {
+    "n": 300,
+    "recall": 0.5933333333333334,
+    "mean_conf": 0.5798288078120585,
+    "mean_bestIoU": 0.49273804852118097,
+    "src": {
+      "composite": 300
+    }
+  },
+  "prior_only/k100": {
+    "n": 300,
+    "recall": 0.48333333333333334,
+    "mean_conf": 0.5689653696685002,
+    "mean_bestIoU": 0.4255526787839093,
+    "src": {
+      "composite": 300
+    }
+  },
+  "dino_prior/k100": {
+    "n": 300,
+    "recall": 0.72,
+    "mean_conf": 0.5735232202267205,
+    "mean_bestIoU": 0.5914536629772434,
+    "src": {
+      "composite": 300
+    }
+  }
+}
